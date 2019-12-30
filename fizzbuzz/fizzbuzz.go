@@ -1,3 +1,5 @@
+// the classic FizzBuzz exercise
+
 package main
 
 import "fmt"
